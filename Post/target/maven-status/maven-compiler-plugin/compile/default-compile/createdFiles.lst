@@ -1,0 +1,5 @@
+com\automationpractice\PageObject\Calculate_postage_domestic.class
+com\automationpractice\Utilities\Entry.class
+com\automationpractice\Utilities\UserAction.class
+com\automationpractice\DriverFactory.class
+com\automationpractice\PageObject\Calculate_postage.class
