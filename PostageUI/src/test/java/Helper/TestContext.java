@@ -1,6 +1,6 @@
-package com.automationpractice.Helper;
+package Helper;
 
-import com.automationpractice.Utilities.Entry;
+import Utilities.Entry;
 
 public class TestContext {
     private final Entry entry;
